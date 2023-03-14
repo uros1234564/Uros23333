@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<html >
+
+   <head>
+    <title>Uros Bio</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.scss">
+     
+   </head>
+   <body>
+    <section>
+        <h1 class="text-shadow"> Uros Biografija </h1>
+        <div class="tags">
+            <p class="text-shadow"><small> Biografija </small></p>
+            <p><b>Uros</b>  je rodjen u Ravnom Selu nadomak
+                 Novog Sada </p>
+            <p>Tamo je isao i u osnovu skolu
+            Skole u koje je uros isao tj idalje ide <sup>[1][2]</sup></p>
+        </div>
+        <ol>
+            <li><sub>[1]</sub> OS Branko Radicevic</li>
+             <li><sub>[2]</sub>  Gimnazija Laza Kostic</li>
+        <p>Bavio sam se raznim sportovima kao sto su kosarka i fudbal sada idem u teretanu radi svoj zdravlja i boljeg izgleda 
+        </p>
+        <p>Planiram da upisem fakultet nakon gimnazije jos nisam odlucio koji </p>
+
+    </section>
+    
+        
+    
+   </body>
+</html>
